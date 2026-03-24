@@ -1,0 +1,25 @@
+https://elements.envato.com/pt-br/medcity-health-medical-html5-template-MVUVFN5
+
+1° cor : Preto #262223
+2° cor : LaranjaClaro #F26E22
+3° cor : MarromClaro #BF5B21
+4° cor : Marrom #733E20
+5° cor : MarromEscuro #402C20
+
+
+
+
+Na Ótica Imagem, oferecemos uma ampla seleção de óculos que combinam elegância, conforto e tecnologia de ponta. Descubra a visão clara e o estilo sofisticado que você merece. Explore nossas coleções exclusivas e dê um novo olhar ao seu dia a dia!
+
+
+Na Ótica Imagem, você encontra óculos elegantes, confortáveis e tecnológicos. Descubra um novo olhar com nossas coleções exclusivas!
+
+
+
+    --Preto: #262223;   --Cor1
+    --LaranjaClaro: #F26E22; --Cor2
+    --LaranjaEscuro: #c75c1f; --Cor3
+    --MarromClaro: #BF5B21; --Cor4
+    --Marrom: #733E20; --Cor5
+    --MarromEscuro: #402C20; --Cor6
+    --CorBordaSeparador: rgba(255, 255, 255, 0.634)
